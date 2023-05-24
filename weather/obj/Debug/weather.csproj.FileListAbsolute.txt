@@ -1,0 +1,8 @@
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\bin\Debug\weather.exe.config
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\bin\Debug\weather.exe
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\bin\Debug\weather.pdb
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\obj\Debug\weather.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\obj\Debug\weather.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\obj\Debug\weather.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\obj\Debug\weather.exe
+C:\Users\ens_s\Desktop\Software\projects\weather\weather\obj\Debug\weather.pdb
